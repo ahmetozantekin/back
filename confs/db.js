@@ -1,4 +1,4 @@
 module.exports = {
-  test: "mongodb://localhost:27017",
-  prod: "mongodb://u:p@h:port/db"
+  test: "mongodb://127.0.0.1:27017/sausozlukdb",
+  prod: "mongodb://127.0.0.1:27017/sausozlukdb"
 };
